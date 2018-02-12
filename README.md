@@ -1,6 +1,6 @@
-# secure-nodejs-restful-api
+# secure-nodejs-rest-api
 
-A bare bones API using express, mongoose and mongodb.
+A bare bones API built with express, mongoose and mongodb.
 
 It consist of a User model and controller. The model
 defines the data, and the controller contains all
